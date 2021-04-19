@@ -1,25 +1,29 @@
 # Baldera Map
 
-![](https://cdn.discordapp.com/attachments/803409013832155177/831780632279384084/unknown.png)
+![](https://i.imgur.com/eNxqAcB.png)
 
-Ever get lost in a forgotten area known as Baldera? Well I've got the module for you! Baldera Map adds an electron-based minimap while you're in the Baldera area to help make it feel like it was meant to exist again. This is done by using the [TERA Toolbox](https://github.com/tera-toolbox/tera-toolbox) modding platform.
+Ever get lost in an all-too-forgotten area known as Baldera? Well I've got the module for you! Baldera Map adds an electron-based minimap while you're in the Baldera area to help make it feel like it was meant to exist again. This is done by using the [TERA Toolbox](https://github.com/tera-toolbox/tera-toolbox) modding platform.
+
 
 ## Features
 
-* Automatically opens when you're likely in Baldera, and automatically closes when you leave it.
+* Automatically opens and closes when you leave the Baldera region.
 
-* A moving dot showing a near real-time representation of your location on the map.
+* Displays a near real-time representation of your location on the minimap.
 
 * Displays all routes, including smaller ones that you may not have known about.
 
 * Moveable UI to be placed where you want it.
 
+
 ## Usage Notes
+
 1. This may (or may not) work as expected on a display larger (or smaller) than 1920 x 1080.
 
 2. You can use the command "balderamap" or "bmap" to open the map manually.
 
-## Credits
-[Ambush](https://github.com/ambushing) : Plotting the path points, moving the location titles, and camp flags.
+3. Changes to the position are saved when you close the minimap and reopen it. Right click on it to close it manually.
 
-[Snug](https://github.com/Snugglez) : All of the technical work, including the SVG path point generator.
+
+## Credits
+[Snug](https://github.com/Snugglez) : A lot of the technical work, including an SVG path plotter.

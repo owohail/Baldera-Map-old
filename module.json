@@ -3,7 +3,7 @@
     "name": "BalderaMap",
     "author": "Ambush / Snug",
     "description": "An electron GUI recreation of the Baldera area minimap.",
-    "version": "1.0",
+    "version": "1.0.1",
     "donationUrl": "https://play.google.com/store/apps/details?id=com.CarvedGames.SD",
     "options": {
         "guiName": "Baldera Map",
