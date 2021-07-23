@@ -1,4 +1,6 @@
 # Baldera Map
+**THIS MOD IS DEPRECATED!** This is because Baldera will be [officially used](https://playtera.co.kr/news/updates/492?page_from=1) soon.
+You can still use this mod until the official Baldera patch, as I don't expect it to cease functionality. However, it will become redundant when we get a working minimap.
 
 ![](https://i.imgur.com/eNxqAcB.png)
 
