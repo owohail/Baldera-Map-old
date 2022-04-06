@@ -1,9 +1,9 @@
 {
     "disableAutoUpdate": false,
     "name": "BalderaMap",
-    "author": "Ambush / Snug",
+    "author": "Hail . Snug",
     "description": "An electron GUI recreation of the Baldera area minimap.",
-    "version": "(DEPRECATED) 1.0.2",
+    "version": "(DEPRECATED) 1.0.3",
     "donationUrl": "https://play.google.com/store/apps/details?id=com.CarvedGames.SD",
     "options": {
         "guiName": "Baldera Map",
@@ -12,5 +12,5 @@
         "settingsFile": "config.json",
         "settingsMigrator": "config_generator.js"
     },
-    "servers": ["https://raw.githubusercontent.com/ambushing/Baldera-Map/main/"]
+    "servers": ["https://raw.githubusercontent.com/hailstorming/Baldera-Map/main/"]
 }
